@@ -14,3 +14,6 @@ elif op == "%":
 else:
     print("Sistem operasi tidak ditemukan")
     ##test
+    ##test
+    ##test
+    ##test
